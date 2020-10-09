@@ -1,1 +1,9 @@
-
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.foreman",
+    "sha256_cert_fingerprints":
+    ["DD:EB:21:3F:B5:35:22:64:1A:DD:F2:3C:5A:35:83:0F:FE:7A:5A:6A:43:9B:2C:41:22:67:4E:39:A3:8B:0D:F9"]
+  }
+}]
